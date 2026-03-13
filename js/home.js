@@ -2,7 +2,7 @@
 if(cookieExists&&cookieExists('username')){
 	window.username=getCookie('username');
 	document.title=`Home for ${username}`;
-}else{document.title='Home for SKCro';}
+}else{document.title='Home for WebTV';}
 
 document.addEventListener('DOMContentLoaded',function(){
 	const todayContainer=document.querySelector('.webtv-today-container');
