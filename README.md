@@ -1,5 +1,5 @@
 # WebTV HD
-![WebTV HD logo](https://skcro.github.io/WebTV-HD/Logo.svg)
+![WebTV HD logo](https://coltonsr77.github.io/WebTV-HD-Updated/Logo.svg)
 
 <sub>Previously known as "WebTV-CSS-Remake".</sub>
 
@@ -8,7 +8,7 @@ A project that aims to recreate WebTV's UI, page design, and some functionality,
 For those who are unfamilliar, WebTV was an internet access device released in 1996 by a company called WebTV Networks. It was later bought by Microsoft and rebranded to MSN TV. If you want more info on it, check out the [Wikipedia article](https://en.wikipedia.org/wiki/MSN_TV).
 
 ## How do I try it out?
-### Head on over to the **[GitHub Pages instance](https://SKCro.github.io/WebTV-HD/)** if you'd like to try it out.
+### Head on over to the **[GitHub Pages instance](https://coltonsr77.github.io/WebTV-HD-Updated/)** if you'd like to try it out.
 
 Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://SKCro.destroytheos.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
 
@@ -16,7 +16,7 @@ Firefox is recommended - the progress bar animation and some JS timing stuff is 
 
 If anything is broken for you (and you're using a reasonably modern browser), **please [file a bug report](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+)** and tell me the issue, which browser you used, and your screen resolution. Provide a screenshot if possible.
 
-Alternatively, DM me on Discord - username is `SKCro`.
+Alternatively, DM me on Discord - username is `teamcolton7`.
 
 ## How do I use the code?
 **Important:** If you're planning to use this for a project or website, please credit me when possible. This could be a small credit at the bottom of your website or having my name (along with a link to the repo) on a credits page.
@@ -27,7 +27,7 @@ Unzip wherever you want and **use a server to host the code** - it doesn't work 
  
 ![Screenshot of the "Code" button being pressed, revealing the "Download ZIP" button.](https://i.imgur.com/bXnlbAJ.png)
 
-If you prefer (or are stuck with) with a command line interface, you can run `git clone https://github.com/SKCro/WebTV-HD.git`, and copy all the resources over by entering the WebTV-HD directory, and running `cp -r ./* <your location>`.
+If you prefer (or are stuck with) with a command line interface, you can run `git clone https://github.com/coltonsr77/WebTV-HD-Updated.git`, and copy all the resources over by entering the WebTV-HD directory, and running `cp -r ./* <your location>`.
 
 The wiki has some useful info, so make sure to [check it out](https://github.com/SKCro/WebTV-HD/wiki/).
 
