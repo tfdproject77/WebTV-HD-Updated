@@ -26,7 +26,7 @@ x Have webcd host music so we can take it down if need be [Abandoned; Previously
 ✓ Redesign the mobile app icon again to include the "HD" text [Done]
 ✓ Add an FAQ page [Pretty much done]
 ✓ Fix panel styles for mobile [Done]
-✓ Create a "WebTV HD compatibility script" of sorts that lets you make your site WTV-HD-friendly just by adding a script to each page on your site [Done, just add this to the bottom of each page: <script src=https://skcro.github.io/WebTV-HD/js/wtv-hd.js></script>]
+✓ Create a "WebTV HD compatibility script" of sorts that lets you make your site WTV-HD-friendly just by adding a script to each page on your site [Done, just add this to the bottom of each page: <script src=https://webtvsim.coltonsr77.net/js/wtv-hd.js></script>]
 ✓ Remove as many direct iframe accesses as possible - use postMessage API instead. [Done, with a couple exceptions]
 ✓ Add Plus screensaver [Pretty much done]
 ✓ Recreate webtv.net homepage [Done]
