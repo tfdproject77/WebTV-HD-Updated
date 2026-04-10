@@ -10,11 +10,11 @@ For those who are unfamilliar, WebTV was an internet access device released in 1
 ## How do I try it out?
 ### Head on over to the **[GitHub Pages instance](https://coltonsr77.github.io/WebTV-HD-Updated/)** if you'd like to try it out.
 
-Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://SKCro.destroytheos.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
+Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://webtvsim.coltonsr77.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
 
 Firefox is recommended - the progress bar animation and some JS timing stuff is a bit broken on Chrome due to differences in their browser engines. <sub>**You shouldn't be using Chrome if you support open-source software anyway!**</sub>
 
-If anything is broken for you (and you're using a reasonably modern browser), **please [file a bug report](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+)** and tell me the issue, which browser you used, and your screen resolution. Provide a screenshot if possible.
+If anything is broken for you (and you're using a reasonably modern browser), **please [file a bug report](https://github.com/coltonsr77/WebTV-HD-Updated/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+)** and tell me the issue, which browser you used, and your screen resolution. Provide a screenshot if possible.
 
 Alternatively, DM me on Discord - username is `teamcolton7`.
 
@@ -44,9 +44,9 @@ I don't have an exact roadmap - I just sorta add what I feel like adding. In no 
 If you'd like to suggest something, fill out the [feature suggestion template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=SKCro&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) to let me know what you'd like to see added to WebTV HD.
 
 ## What if I need help using this code?
-If you need help for any reason, feel free to contact me on Discord. Username is the same as here: `SKCro`
+If you need help for any reason, feel free to contact me on Discord. Username is the same as here: `teamcolton7`
 
-Alternatively, you can contact me on Twitter (`@SKCro_`), but I don't really check Twitter often anymore, so Discord is your best bet.
+Alternatively, you can contact me on Twitter (`@SD_COLTON`), but I don't really check Twitter often anymore, so Discord is your best bet.
 
 If you want to report a bug or suggest a feature, use the [bug report template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+) or [feature suggestion template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=SKCro&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) respectively.
 
