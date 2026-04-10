@@ -286,7 +286,7 @@ window.removeNoSelects=function(){
 //Top row buttons
 window.home=function(){
 	hideOptionsBarNoSound();
-	location.go('https://SKCro.github.io/WebTV-HD/wtv-home/home.html');
+	location.go('https://webtvsim.coltonsr77.net/wtv-home/home.html');
 }
 
 window.find=function(text){
