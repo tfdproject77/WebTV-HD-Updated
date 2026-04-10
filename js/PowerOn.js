@@ -40,7 +40,7 @@ function initDialing(){
 	sD.disabled=false;
 	highlight(sD);
 	dM.play();
-	document.title='Connecting to WebTV';
+	document.title='Connecting to WebTV-HD';
 	let value=10;
 	if(useKnockoffLogos===1){
 		p.addEventListener('animationend',function(){
