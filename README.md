@@ -27,7 +27,7 @@ Unzip wherever you want and **use a server to host the code** - it doesn't work 
  
 ![Screenshot of the "Code" button being pressed, revealing the "Download ZIP" button.](https://i.imgur.com/bXnlbAJ.png)
 
-If you prefer (or are stuck with) with a command line interface, you can run `git clone https://github.com/coltonsr77/WebTV-HD-Updated.git`, and copy all the resources over by entering the WebTV-HD directory, and running `cp -r ./* <your location>`.
+If you prefer (or are stuck with) with a command line interface, you can run `git clone https://github.com/coltonsr77/WebTV-HD-Updated.git`, and copy all the resources over by entering the WebTV-HD-Updated directory, and running `cp -r ./* <your location>`.
 
 The wiki has some useful info, so make sure to [check it out](https://github.com/SKCro/WebTV-HD/wiki/).
 
@@ -41,14 +41,14 @@ I don't have an exact roadmap - I just sorta add what I feel like adding. In no 
 - ~~\[Unlikely\] Make this into a browser extension of some sort that adds a WebTV overlay and allows navigation with your keyboard or a gamepad.~~ Unfortunately, this is currently impossible due to the way WebTV HD works - it embeds the page into an iframe so that WebTV elements like the status bar draw on top of the page (and aren't a part of it). The problem is that a lot of big websites don't allow embedding for security reasons - you can try this yourself: open the Go To panel and try to go to a popular site like YouTube. It will probably give you either nothing at all or an error message.
 - \[Very Unlikely\] Try to make this into a WTVP-to-HTML interface. Essentially, make it into a WebTV client. This would be very complicated (I have no backend skills and would definitely need help from others), but it is something I'm looking forward to getting working eventually, even at a very basic level.
 
-If you'd like to suggest something, fill out the [feature suggestion template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=SKCro&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) to let me know what you'd like to see added to WebTV HD.
+If you'd like to suggest something, fill out the [feature suggestion template](https://github.com/coltonsr77/WebTV-HD-Updated/issues/new?assignees=coltonsr77&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) to let me know what you'd like to see added to WebTV HD.
 
 ## What if I need help using this code?
 If you need help for any reason, feel free to contact me on Discord. Username is the same as here: `teamcolton7`
 
 Alternatively, you can contact me on Twitter (`@SD_COLTON`), but I don't really check Twitter often anymore, so Discord is your best bet.
 
-If you want to report a bug or suggest a feature, use the [bug report template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+) or [feature suggestion template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=SKCro&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) respectively.
+If you want to report a bug or suggest a feature, use the [bug report template](https://github.com/coltonsr77/WebTV-HD-Updated/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+) or [feature suggestion template](https://github.com/coltonsr77/WebTV-HD-Updated/issues/new?assignees=coltonsr77&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) respectively.
 
 ## TODO:
 - ~~Flesh out everything.~~ Pretty much done.
