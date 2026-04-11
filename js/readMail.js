@@ -31,7 +31,7 @@ addEventListener('DOMContentLoaded',function(){
 	<link rel=stylesheet type=text/css href=../css/style.css>
 	<link rel=stylesheet type=text/css href=../css/service.css>
 	<style>body{animation:none;}</style><meta charset=UTF-8></head><body>
-	<p>This document serves as a notice of your eviction from... uh... screw it, I have no clue how to write an eviction notice.</p>
+	<p>This document serves as a notice of your eviction from... uh...</p>
 	</body></html>
 	`,`
 	<!DOCTYPE HTML><html lang=en><head><title>Plea se re-ente r your Anazone passwor d</title>
