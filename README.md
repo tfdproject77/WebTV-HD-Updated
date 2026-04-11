@@ -1,5 +1,5 @@
 # WebTV HD
-![WebTV HD logo](https://webtvsim.coltonsr77.net/Logo.svg)
+![WebTV HD logo](https://coltonsr77.github.io/WebTV-HD-Updated/Logo.svg)
 
 <sub>Previously known as "WebTV-CSS-Remake".</sub>
 
@@ -8,7 +8,7 @@ A project that aims to recreate WebTV's UI, page design, and some functionality,
 For those who are unfamilliar, WebTV was an internet access device released in 1996 by a company called WebTV Networks. It was later bought by Microsoft and rebranded to MSN TV. If you want more info on it, check out the [Wikipedia article](https://en.wikipedia.org/wiki/MSN_TV).
 
 ## How do I try it out?
-### Head on over to the **[GitHub Pages instance](https://webtvsim.coltonsr77.net/)** if you'd like to try it out.
+### Head on over to the **[GitHub Pages instance](https://coltonsr77.github.io/WebTV-HD-Updated/)** if you'd like to try it out.
 
 Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://webtvsim.coltonsr77.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
 
