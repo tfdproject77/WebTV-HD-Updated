@@ -16,7 +16,7 @@ addEventListener('DOMContentLoaded',function(){
 	<style>body{animation:none;}</style><meta charset=UTF-8></head><body>
 	<p><b>Welcome to WebTV HD-Updated!</b></p>
 	<p>This is a project aiming to replicate the look, feel, and some functionality of the WebTV service. I've gotten a lot of the base WebTV stuff down, including (but not limited to):</p>
-	<ul><li>Colors and fonts</li><li>Input styles</li><li>Dialog boxes</li><li>More stuff I can't name off the top of my head</li></ul>
+	<ul><li>Colors and fonts</li><li>Input styles</li><li>Dialog boxes</li><li>Page Builder</li></ul>
 	<p>There's also a lot of stuff I plan to reimplement, like...</p>
 	<ul><li>Some Page Builder styles</li><li>Other service pages</li><li>Better transitions</li><li>More stuff I, again, can't name off the top of my head</li></ul>
 	<p>Thanks for checking out my project!</p>
