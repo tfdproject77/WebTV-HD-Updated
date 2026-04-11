@@ -15,7 +15,7 @@ const sJ=document.getElementById('splashJingle');
 
 let stopProgressUpdates=false;
 function wait(ms){return new Promise(function(r){setTimeout(r,ms);});}
-if(Math.floor(Math.random()*10)+1===1){dM.src='audio/music/other/aoltv.mp3';dM.load();}
+if(Math.floor(Math.random()*10)+1===1){dM.src='audio/music/ROMCache/dialing.mp3';dM.load();}
 
 async function powerOn(){
 	parent.postMessage({type:'goFullscreen'},'*');
