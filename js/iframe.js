@@ -1,7 +1,7 @@
 'use strict';
 //Import selection box code
 const selBoxScript=document.createElement('script');
-selBoxScript.src='https://wetvsim.coltonsr77.net/js/selectionBox.js';
+selBoxScript.src='https://coltonsr77.github.io/WebTV-HD-Updated/js/selectionBox.js';
 document.head.appendChild(selBoxScript);
 //Common variables
 const iframe=document.getElementById('mainFrame');
@@ -286,7 +286,7 @@ window.removeNoSelects=function(){
 //Top row buttons
 window.home=function(){
 	hideOptionsBarNoSound();
-	location.go('https://webtvsim.coltonsr77.net/wtv-home/home.html');
+	location.go('https://coltonsr77.github.io/WebTV-HD-Updated/wtv-home/home.html');
 }
 
 window.find=function(text){
