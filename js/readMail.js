@@ -9,8 +9,8 @@ addEventListener('DOMContentLoaded',function(){
 	const messages=[`
 	<!DOCTYPE HTML><html lang=en><head><title>Welcome to WebTV HD-Updated!</title>
 	<meta name=sender content=coltonsr77>
-	<meta name=senderEmail content=coltonsr77@localhost>
-	<meta name=date content="Just now (okay not really)">
+	<meta name=senderEmail content=coltonsr77@coltonsr77.net>
+	<meta name=date content="Just now">
 	<link rel=stylesheet type=text/css href=../css/style.css>
 	<link rel=stylesheet type=text/css href=../css/service.css>
 	<style>body{animation:none;}</style><meta charset=UTF-8></head><body>
