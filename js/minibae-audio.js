@@ -1,4 +1,4 @@
-import PlayBAE from './playbae.js';
+import PlayBAE from 'playbae.js';
 
 const TYPE_TO_CMD={
 	'wav':'-w',
