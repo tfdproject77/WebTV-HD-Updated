@@ -75,14 +75,14 @@ function initDialing(){
 			{message:'Dialing toll free',interval:20,value:10},
 			{message:'Waiting for answer',interval:70,value:43},
 			{message:'WebTV answering',interval:80,value:45},
-			{message:'Connected to WebTV-HD',interval:90,value:50},
+			{message:'Connected to WebTV',interval:90,value:50},
 			{message:'Preparing to call again',interval:190,value:51},
 			{message:'Preparing to call',interval:195,value:52},
 			{message:'Dialing 14848201337',interval:200,value:60},
 			{message:'Waiting for answer',interval:250,value:67},
 			{message:'Connecting',interval:290,value:90},
-			{message:'Connecting to WebTV-HD',interval:320,value:100},
-			{message:'Connecting to WebTV-HD',interval:520,value:110}
+			{message:'Connecting to WebTV',interval:320,value:100},
+			{message:'Connected to WebTV-HD',interval:520,value:110}
 		];
 		progressBarMessages.forEach(function(details){
 			if(value==details.interval){
