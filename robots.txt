@@ -12,5 +12,3 @@ Disallow: /images/
 Disallow: /audio/
 Disallow: /sites/
 Disallow: /ad/
-Disallow: /.git/
-Disallow: /.github/

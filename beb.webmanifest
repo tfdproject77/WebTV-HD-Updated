@@ -10,7 +10,6 @@
   "description": "A basic, browser-based recreation of Microsoft's WebTV service. For more information on this project, check out the GitHub repo at github.com/coltonsr77/WebTV-HD-Updated.",
   "start_url": "https://coltonsr77.github.io/WebTV-HD-Updated/",
   "scope": "https://coltonsr77.github.io/WebTV-HD-Updated/",
-  "id": "https://coltonsr77.github.io/ojS5FTO2vjDXBbGgZPXt",
   "prefer_related_applications": false,
   "related_applications": [],
   "icons": [
