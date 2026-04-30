@@ -98,7 +98,7 @@ function skipDialing(){
 	if(pO){pOB.disabled=true;pO.classList.add('fade-out');}
 	stopProgressUpdates=true;
 	p.value=100;
-	pM.textContent='Bruh';
+	pM.textContent='FINALLY!';
 	dM.pause();
 	sD.disabled=true;
 	setTimeout(function(){sD.remove();},450);

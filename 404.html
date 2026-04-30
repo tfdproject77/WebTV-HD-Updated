@@ -13,7 +13,7 @@
 		const currentAnimation=window.getComputedStyle(smoke).getPropertyValue('animation');
 		smoke.style.animation=currentAnimation?currentAnimation+',fadeOut 250ms linear forwards':'fadeOut 250ms linear forwards';
 		setTimeout(function(){
-			go('https://coltonsr77.github.io/WebTV-HD-Updated/wtv-home/home.html');
+			go('wtv-home/home.html');
 			window.open('https://www.youtube.com/watch?v=THc1X-kEX4E','_blank');
 		},200);
 	}
@@ -56,5 +56,5 @@
 	<p>If you got here by manually specifying a page via <code>?page=</code>, make sure you spelled the path correctly.</p>
 	<button class="asbestos submit" onclick=asbestos()>asbestos</button>
 	<hr class=border>
-	<button class="submit ButtonBorder2" onclick=go('https://coltonsr77.github.io/WebTV-HD-Updated/wtv-home/home.html');>Home</button>
+	<button class="submit ButtonBorder2" onclick=go('wtv-home/home.html');>Home</button>
 </main></body></html>
