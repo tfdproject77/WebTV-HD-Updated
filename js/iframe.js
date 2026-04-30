@@ -317,7 +317,7 @@ window.info=function(){
 	pretext.style.width='80%';
 	pretext.textContent=document.title;
 	if(iframe.contentDocument!==null){bottomMessage.textContent=`Address: ${iframe.contentDocument.location.href}`;}
-	else{bottomMessage.innerHTML=`Address: Unknown - page is <a class=clickable onclick="playSound(submitSound);location.go('https://SKCro.github.io/WebTV-HD/wtv-other/FAQ.html#classesandids');closePanel();">cross-origin</a>`;}
+	else{bottomMessage.innerHTML=`Address: Unknown - page is <a class=clickable onclick="playSound(submitSound);location.go('https://coltonsr77.github.io/WebTV-HD-Updated/wtv-other/FAQ.html#classesandids');closePanel();">cross-origin</a>`;}
 	bottomMessage.style.bottom='16vw';
 	textInput.value='';
 	textInput.placeholder='';
