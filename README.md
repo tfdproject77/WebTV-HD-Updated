@@ -10,7 +10,7 @@ For those who are unfamilliar, WebTV was an internet access device released in 1
 ## How do I try it out?
 ### Head on over to the **[GitHub Pages instance](https://coltonsr77.github.io/WebTV-HD-Updated/)** if you'd like to try it out.
 
-Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://webtvsim.coltonsr77.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
+Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://tfdproject77.github.io/WebTV-HD-Updated)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
 
 Firefox is recommended - the progress bar animation and some JS timing stuff is a bit broken on Chrome due to differences in their browser engines. <sub>**You shouldn't be using Chrome if you support open-source software anyway!**</sub>
 
